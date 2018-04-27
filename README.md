@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Õppematerjalist
 
-You can use the [editor on GitHub](https://github.com/ios-rakenduse-arendus/ios-rakenduse-arendus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Antud iOS rakenduse arenduse õppematerjal on loodud Tallinna Ülikooli informaatika eriala seminaritöö ja bakalaureusetöö raames. Õppematerjal on ülesse ehitatud nii, et kui koheselt kirjalikus pildis koodi ei mõista siis on võimalik iga rea funktsionaalsust kuulata ja vaadata õppematerjali sisse lingitud videotest. Igas praktilises osas on vaja täita iseseisvalt mingi ülesanne ilma sealjuures oleva videoõpetuseta, et lisada sellega rakendusele funktsionaalsusi ning kontrollida, kas eelnevalt kirjutatud koodi on mõistetud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Koostas: Marianne Kristiina Orusalu, mkoinc@tlu.ee
 
-### Markdown
+Terviklik äpp on kättesaadav [EKSMATIproject](https://github.com/ios-rakenduse-arendus/EsimeneApp) kaustast. Seda võib kasutada hilisemaks kontrolliks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sisukord
 
-```markdown
-Syntax highlighted code block
+### 1. tund:
 
-# Header 1
-## Header 2
-### Header 3
+[1. iOS tutvustus](https://github.com/ios-rakenduse-arendus/2018/wiki/1.-iOS-tutvustus)
 
-- Bulleted
-- List
+[2. Xcode tutvustus ja paigaldamine](https://github.com/ios-rakenduse-arendus/2018/wiki/2.-Xcode-tutvustus-ja-paigaldamine)
 
-1. Numbered
-2. List
+[3. Swift ja SpriteKit tutvustus](https://github.com/ios-rakenduse-arendus/2018/wiki/3.-Swift-ja-SpriteKit-tutvustus)
 
-**Bold** and _Italic_ and `Code` text
+### 2. tund:
 
-[Link](url) and ![Image](src)
-```
+[4. Rakenduse tutvustus](https://github.com/ios-rakenduse-arendus/2018/wiki/4.-Rakenduse-tutvustus)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[4.1. Rakendus: Projekti algus ja tausta loomine](https://github.com/ios-rakenduse-arendus/4.1.Rakendus-taust)
 
-### Jekyll Themes
+### 3. tund:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ios-rakenduse-arendus/ios-rakenduse-arendus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[4.2. Rakendus: Elementide lisamine](https://github.com/ios-rakenduse-arendus/4.2.Rakendus-elemendid)
 
-### Support or Contact
+### 4. tund:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[4.3. Rakendus: START e. liikumise lisamine](https://github.com/ios-rakenduse-arendus/4.3.Rakendus-start)
+
+### 5. tund:
+
+[4.4. Rakendus: Viimistlemine](https://github.com/ios-rakenduse-arendus/4.4.Rakendus-viimistlemine)
+
+[4.5. Rakendus: Äpi paigaldus](https://github.com/ios-rakenduse-arendus/EsimeneApp/wiki/4.5.-Rakendus:-%C3%84pi-paigaldus)
+___
+
+**Õpieesmärgid:** Õppija omandab algteadmised Xcode integreeritud arenduskeskkonna käsitlemise ja Swift keele kohta ning algse oskuse mõista ning kasutada neid praktikas, mille lõpptulemusena valmib mängu äpp.
+
+**Õpiväljundid:**
+* oskab kasutada Xcode arenduskeskkonda uue projekti loomiseks, koodi sisestamiseks(vajadusel parandamiseks/kohandamiseks) ja koodi käivitamiseks simulaatoris;
+* tunneb Swift keele süntaksit;
+* on võimeline koostama koodinäidete põhjal lihtsamaid iOS rakendusi Swift keeles.
+
+**Sihtgrupp:** Õppematerjali sihtgrupiks on infotehnoloogia suunaga tudengid, kuid ka kooliõpilased ning teised programmeerimishuvilised inimesed.
+
+**Tehnilise platvorm:** Töö toimub Mac arvutites Xcode programmis, kasutades Swift keelt ja SpriteKit'i.
+
+
+![Eksmati](https://github.com/ios-rakenduse-arendus/4.1.Rakendus-taust/blob/master/Assets/AppIcon/iPhoneApp60pt%403x.png)
+
+
+# Innukat õppimist!
