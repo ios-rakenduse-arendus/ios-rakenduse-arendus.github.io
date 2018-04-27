@@ -35,7 +35,8 @@ Terviklik äpp on kättesaadav [EKSMATIproject](https://github.com/ios-rakenduse
 [4.4. Rakendus: Viimistlemine](https://github.com/ios-rakenduse-arendus/4.4.Rakendus-viimistlemine)
 
 [4.5. Rakendus: Äpi paigaldus](https://github.com/ios-rakenduse-arendus/EsimeneApp/wiki/4.5.-Rakendus:-%C3%84pi-paigaldus)
-___
+
+
 
 **Õpieesmärgid:** Õppija omandab algteadmised Xcode integreeritud arenduskeskkonna käsitlemise ja Swift keele kohta ning algse oskuse mõista ning kasutada neid praktikas, mille lõpptulemusena valmib mängu äpp.
 
